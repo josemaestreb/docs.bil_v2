@@ -2,7 +2,7 @@
 
 ## Are there file services other than iCloud?
 
-Taio currently supports iCloud Drive, and we are considering adding services like OneDrive or other commonly used cloud storage services. In addition, a WebDAV based file transfer method is also planned.
+BIL currently supports iCloud Drive, and we are considering adding services like OneDrive or other commonly used cloud storage services. In addition, a WebDAV based file transfer method is also planned.
 
 ## Is there an action sharing community?
 
@@ -12,7 +12,7 @@ We are working on it, please stay tuned.
 
 Due to system limitations, all third-party apps in iOS 14 and macOS 11 are not interactive.
 
-However, Taio provides full support for Shortcuts, by leveraging its widgets, you can save data without opening the app. Please refer to our [guides](integration/shortcuts.md) to set it up if necessary.
+However, BIL provides full support for Shortcuts, by leveraging its widgets, you can save data without opening the app. Please refer to our [guides](integration/shortcuts.md) to set it up if necessary.
 
 ## Why isn't the widget updating?
 

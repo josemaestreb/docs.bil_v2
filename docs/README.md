@@ -1,16 +1,30 @@
-# Taio
+# Documentación BIL V2
 
-This document provides instructions, tips and tricks for getting started with the [Taio](https://taio.app) app, as well as some reference examples.
+Esta documentación es el manual de usuario de la herramienta BIL V2 [Acceso aquí](http://129.146.151.238/bilv2/index.php/Login/login/), diseñada para Pharex y sus clientes.
 
-We will keep this documentation updated to accommodate changes to the app, please stay tuned for our [What's New](whatsnew.md).
+BIL es una plataforma web que permite a los usuarios:
 
-## FAQ
+• Consultar resúmenes y detalles de recepciones de mercancía.
+• Revisar estados, trazabilidad y reportes de pedidos.
+• Acceder a soportes de entrega.
+• Registrar quejas o reclamos.
+• Cargar plantillas de pedidos de forma ágil.
+• Visualizar anuncios de Pharex.
 
-Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in future.
+¡Y mucho más!
 
-## Contact Us
+Esta documentación se actualizará continuamente para reflejar cambios en la plataforma. Manténgase informado en la sección [¿Qué hay de nuevo?](whatsnew.md).
 
-Feel free to reach us out:
+## Preguntas Frecuentes
 
-- Email: [hi@taio.app](mailto:hi@taio.app)
-- Twitter: https://twitter.com/TaioApp
+Hemos recopilado una lista de [preguntas frecuentes](faq.md) para resolver las dudas más comunes. La actualizaremos regularmente.
+
+## Contáctanos
+
+Para cualquier consulta, contáctanos:
+
+- Email: [Soporte Logismart](mailto:danny.lopez@logismart.com.co)
+
+
+Desarrollado por LogiSmart
+Derechos Reservados Pharex © 2024

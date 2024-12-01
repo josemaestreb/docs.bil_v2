@@ -1,5 +1,5 @@
 - Primeros Pasos
-  - [Introducción](intro.md)
+  - [Introducción](README.md)
   - [Preguntas Frecuentes](faq.md)
 - Inicio BIL
   - [Inicio de Sesión](editor/hello-markdown.md)

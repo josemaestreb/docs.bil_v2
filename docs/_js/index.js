@@ -14,7 +14,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'Taio',
+  name: 'BIL V2',
   search: {
     noData: {
       '/cn/': '没有结果',

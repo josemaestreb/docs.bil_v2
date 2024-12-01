@@ -2,7 +2,7 @@
   - [Introducción](README.md)
   - [Preguntas Frecuentes](faq.md)
 - Inicio BIL
-  - [Inicio de Sesión](editor/hello-markdown.md)
+  - [Inicio de Sesión](editor/login.md)
   - [Menú Principal](editor/pro-tips.md)
   - [Funcionalidades](editor/command-palette.md)
   - [Información del Usuario](editor/command-palette.md)

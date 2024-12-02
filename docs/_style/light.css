@@ -852,10 +852,9 @@ pre::after {
   line-height: 1.6 !important;
 }
 .logismart {
-  margin-top: 15px;
-  margin-bottom: 2px;
-  width: 20% !important;
-  max-width: 20% !important;
+  margin-top: 55px;
+  width: 25% !important;
+  max-width: 25% !important;
   box-shadow: none !important;
   border-radius: 0 !important;
   transition: transform 0.3s ease;

@@ -1,4 +1,4 @@
-# Preguntas Frecuentes
+# 💡 Preguntas Frecuentes
 
 ## 01. ¿Cómo puedo regresar al menú principal?
   

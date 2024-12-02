@@ -5,9 +5,9 @@
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" />  
   
   
-¡Bienvenido a BIL V2! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
-
 ## ¿Qué Sigue?
+¡Bienvenido a BIL V2! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
+  
 El siguiente paso es **familiarizarte con el Menú Principal**. Este es el punto de partida para acceder a las diferentes secciones y funcionalidades de la plataforma. A continuación, te mostramos cómo interactuar con el menú:  
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/003-inicio.png" alt="Menú principal de BIL V2" />  
@@ -26,10 +26,11 @@ El Dashboard General te presenta una vista rápida de indicadores clave. Aquí u
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/005-resumen_general.png" alt="Resumen general de operaciones" />  
   
 
-Cada tarjeta del Dashboard tiene un **propósito** específico. Descubre sus significados con las siguientes imágenes:  
+<p class="tip">Cada tarjeta del Dashboard tiene un <strong>propósito</strong> específico. Descubre sus significados con las siguientes imágenes: </p>  
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/006-resumen_recepciones.png" alt="Significado de recepciones y PQRSF" />
 
+  
   
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/007-resumen_pedidos.png" alt="Significado de pedidos" />
@@ -39,12 +40,12 @@ Cada tarjeta del Dashboard tiene un **propósito** específico. Descubre sus sig
 
 Debajo del Dashboard General encontrarás una tabla de **"Pedidos por Estado"**, acompañada de un mapa interactivo que detalla la distribución de los pedidos por ciudad.  
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" alt="Tabla de pedidos por estado" />
-  
 En el mapa, las burbujas representan el volumen de pedidos en cada destino:  
   
 **Burbujas más grandes** = **mayor número de pedidos.**  
 
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" alt="Tabla de pedidos por estado" />
+  
 
 ## 🎉 Módulo finalizado: Menú Principal
 ¡Excelente trabajo! Ahora conoces las funcionalidades esenciales del Menú Principal y cómo interactuar con la página principal de BIL V2.  

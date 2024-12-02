@@ -27,7 +27,7 @@ Para cualquier consulta, contáctanos:
   
   
   
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/logo_logismart.png" alt="Logo Logismart" />  
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/logo_logismart.png" alt="Logo Logismart" style="width: 36%; border: none; box-shadow: none;" />  
   
 Desarrollado por LogiSmart  
 Derechos Reservados Pharex © 2024

@@ -20,7 +20,7 @@ Esta funcionalidad te permite personalizar el reporte seleccionando únicamente 
   Tu navegador no soporta el formato de video.
 </video>
 
-**Nota:** Para ordenar los datos en el reporte, haz clic en el encabezado o título de la columna deseada. El orden cambiará entre ascendente y descendente con cada clic.  
+<p class="tip"><strong>Ten en cuenta:</strong> Para ordenar los datos en el reporte, haz clic en el encabezado o título de la columna deseada. El orden cambiará entre ascendente y descendente con cada clic.</p>  
   
 
 

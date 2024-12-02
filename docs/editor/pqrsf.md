@@ -23,7 +23,8 @@ Para registrar una nueva solicitud:
 1- Haz clic en el botón **"Registrar PQRSF"** (marcado en la imagen anterior).  
 2- Completa los datos solicitados en cada campo del formulario.  
   
-**Nota Importante:** Es fundamental ingresar la información de manera correcta y precisa. De lo contrario, tu solicitud podría ser reclasificada, lo que podría retrasar su procesamiento.  
+
+<p class="tip"><strong>Nota Importante:</strong> Es fundamental ingresar la información de manera correcta y precisa. De lo contrario, tu solicitud podría ser reclasificada, lo que podría retrasar su procesamiento.</p>  
   
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/02-%20Estado%20pedido%20y%20solicitudes/017_registrar_pqrsf.png" alt="Formulario de Registro PQRSF" />
 

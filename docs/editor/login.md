@@ -2,7 +2,7 @@
 
 Acceder a la plataforma BIL es el primer paso para gestionar tus operaciones de manera eficiente. Haz clic en el siguiente enlace para ingresar a la página de inicio de sesión:  
 
-[Acceso aquí.](http://129.146.151.238/bilv2/index.php/Login/login/)
+[Acceso aquí.](http://129.146.151.238/bilv2/index.php/Login/login/){:target="_blank"}
 
 A continuación, verás una pantalla como esta:  
 

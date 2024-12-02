@@ -1,6 +1,6 @@
 # 📑 Documentación BIL V2
 
-Esta documentación es el manual de usuario de la herramienta BIL V2 ([Acceso aquí](http://129.146.151.238/bilv2/index.php/Login/login/)), diseñada para PHAREX y sus clientes.
+Esta documentación es el manual de usuario de la herramienta BIL V2, diseñada para PHAREX y sus clientes.
 
 BIL es una plataforma web que permite a los usuarios:
 
@@ -11,9 +11,9 @@ BIL es una plataforma web que permite a los usuarios:
 • Cargar plantillas de pedidos de forma ágil.  
 • Visualizar anuncios de PHAREX.  
 
-¡Y mucho más!
+**¡Y mucho más!**
 
-Esta documentación se actualizará continuamente para reflejar cambios en la plataforma. Manténgase informado en [¿Qué hay de nuevo?](whatsnew.md).
+Esta documentación se actualizará de manera continua para reflejar las mejoras y cambios en la plataforma. Para estar al tanto de las novedades, te invitamos a visitar con regularidad la sección [¿Qué hay de nuevo?](whatsnew.md), donde podrás consultar los últimos cambios y actualizaciones.  
 
 ## 💡 Preguntas Frecuentes
 
@@ -23,7 +23,7 @@ Hemos recopilado una lista de [preguntas frecuentes](faq.md) para resolver las d
 
 Para cualquier consulta, contáctanos:
 
-- Email: [Soporte Logismart](mailto:danny.lopez@logismart.com.co)
+- Email Soporte: [danny.lopez@logismart.com.co](mailto:danny.lopez@logismart.com.co)
   
   
   

@@ -17,7 +17,7 @@ Ahora **exploraremos** las distintas secciones de la página principal. En la si
 En esta página principal, además de explorar el menú de opciones, podrás familiarizarte con el **Dashboard General**, que ofrece un resumen completo de tu operación. A continuación, te mostramos en detalle el significado de cada sección y cómo interactuar con ellas mediante las siguientes imágenes:  
   
 
-## 1. Resumen General: Inicio
+### 1. Resumen General: Inicio
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/005-resumen_general.png" />  
   
 
@@ -28,7 +28,7 @@ El **significado** de cada tarjeta es:
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/007-resumen_pedidos.png" />
 
 
-## 2. Pedidos por Estado y Ciudad
+### 2. Pedidos por Estado y Ciudad
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" />
   
 

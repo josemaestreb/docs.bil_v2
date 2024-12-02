@@ -63,6 +63,7 @@ body {
   overflow-x: hidden;
 }
 img {
+  width: 95%;
   max-width: 100%;
 }
 a[disabled] {
@@ -284,8 +285,8 @@ main.hidden {
 }
 .sidebar-toggle-button {
   position: fixed;
-  top: 82px; /* Ubica el botón en la parte superior */
-  left: 29px; /* Puedes ajustar la ubicación horizontal si lo deseas */
+  top: 83px; /* Ubica el botón en la parte superior */
+  left: 25px; /* Puedes ajustar la ubicación horizontal si lo deseas */
   z-index: 1000; /* Asegura que el botón esté encima de otros elementos */
   opacity: 0.4;
 }
@@ -401,6 +402,7 @@ body.sticky .sidebar-toggle {
 }
 body.close .sidebar {
   transform: translateX(-300px);
+  opacity: 0.3;
 }
 body.close .sidebar-toggle {
   width: auto;
@@ -671,7 +673,7 @@ body {
 .markdown-section p {
   margin: 1.2em 0;
   font-size: 116%;
-  line-height: 1.25rem;
+  line-height: 1.35rem;
 }
 .markdown-section p,
 .markdown-section ul,
@@ -714,7 +716,7 @@ body {
   -webkit-font-smoothing: initial;
   background-color: #f8f8f8;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
-  line-height: 1.5rem;
+  line-height: 1.65rem;
   margin: 1.2em 0;
   overflow: auto;
   padding: 0 1.4rem;
@@ -831,7 +833,7 @@ pre::after {
   font-size: 0.6rem;
   font-weight: 600;
   height: 15px;
-  line-height: 15px;
+  line-height: 20px;
   padding: 5px 10px 0;
   position: absolute;
   right: 0;

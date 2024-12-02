@@ -4,7 +4,7 @@
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" />  
   
-  
+
 ## ¿Qué Sigue?
 ¡Bienvenido a BIL V2! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
   

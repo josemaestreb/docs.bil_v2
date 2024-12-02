@@ -1,10 +1,11 @@
-# Navegando Por El Menú Principal
+# 🧭 Navegando Por El Menú Principal
 
 ¡Enhorabuena! Si has iniciado sesión correctamente, deberías ver una pantalla similar a esta:  
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" />  
   
-¡Bienvenido a **BIL V2**! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
+  
+¡Bienvenido a BIL V2! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
 
 ## ¿Qué Sigue?
 El siguiente paso es **familiarizarte con el Menú Principal**. Este es el punto de partida para acceder a las diferentes secciones y funcionalidades de la plataforma. A continuación, te mostramos cómo interactuar con el menú:  
@@ -45,7 +46,7 @@ En el mapa, las burbujas representan el volumen de pedidos en cada destino:
 **Burbujas más grandes** = **mayor número de pedidos.**  
 
 
-## Módulo finalizado: Menú Principal
+## 🎉 Módulo finalizado: Menú Principal
 ¡Excelente trabajo! Ahora conoces las funcionalidades esenciales del Menú Principal y cómo interactuar con la página principal de BIL V2.  
 
 Si quieres profundizar más, te recomendamos explorar:  

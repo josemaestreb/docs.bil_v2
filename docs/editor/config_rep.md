@@ -1,4 +1,4 @@
-# Configuración Previa de Reportes
+# ⚙️ Configuración Previa de Reportes
 
 En esta sección utilizaremos el Reporte de Recepciones (o Recibo de Mercancía) como **ejemplo**. Este reporte incluye funciones clave como ordenado, filtrado, resumen y exportación a Excel, las cuales son **aplicables a otros reportes** de la plataforma.
 
@@ -19,5 +19,7 @@ Esta funcionalidad te permite personalizar el reporte seleccionando únicamente 
 
 **Nota:** Para ordenar los datos en el reporte, haz clic en el encabezado o título de la columna deseada. El orden cambiará entre ascendente y descendente con cada clic.  
   
+  
 **¡Felicidades!**  
+  
 Con estas herramientas, ahora puedes interactuar con cualquier menú de reportes en la plataforma y descargar la información ajustada según tus preferencias.  

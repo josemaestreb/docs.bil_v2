@@ -1,4 +1,4 @@
-# Cree Nuevos Usuarios en la Plataforma
+# 👥 Cree Nuevos Usuarios en la Plataforma
 
 Accede al menú de opciones y selecciona **Crear Usuario** en la sección **Usuarios** para registrar nuevos usuarios en la plataforma de manera rápida y sencilla.
 

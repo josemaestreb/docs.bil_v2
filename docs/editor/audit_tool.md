@@ -1,4 +1,4 @@
-# Auditar la Plataforma BIL
+# 🔍 Auditar la Plataforma BIL
 
 Accede a la herramienta de auditoría para monitorear y revisar las actividades dentro de la plataforma BIL.  
   

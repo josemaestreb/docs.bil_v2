@@ -1,4 +1,4 @@
-# Cargar Plantilla de Pedidos
+# 📄 Cargar Plantilla de Pedidos
 
 Desde el menú de opciones, accede a **Cargue de Plantilla de Pedidos** en la opción **Solicitudes** para enviar los pedidos que deben ser alistados a PHAREX, siguiendo los pasos que se muestran en la imagen a continuación.  
 

@@ -1,2 +1,2 @@
-- [¿Qué hay de nuevo?](whatsnew.md)
+- [¿Qué hay de nuevo? 📣](whatsnew.md)
 <!-- - [**ES** / CN](cn/) -->

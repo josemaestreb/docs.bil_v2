@@ -1,6 +1,6 @@
 # Preguntas Frecuentes
 
-## ¿Cómo puedo regresar al menú principal?
+## 01. ¿Cómo puedo regresar al menú principal?
   
 En cualquier momento, puedes regresar al menú principal presionando el botón Menú. Sigue los pasos que se muestran a continuación para volver a la página principal fácilmente:  
   

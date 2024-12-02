@@ -1,4 +1,4 @@
-# Gestión de Usuarios en la Plataforma
+# 👥 Gestión de Usuarios en la Plataforma
 
 Accede al menú de opciones y selecciona **Administrar Usuarios** en la sección **Usuarios** para realizar tareas como:
 

@@ -1,4 +1,4 @@
-# Documentación BIL V2
+# 📑 Documentación BIL V2
 
 Esta documentación es el manual de usuario de la herramienta BIL V2 ([Acceso aquí](http://129.146.151.238/bilv2/index.php/Login/login/)), diseñada para PHAREX y sus clientes.
 

@@ -41,7 +41,7 @@ div#app:empty::before {
   z-index: 999999;
 }
 .search a:hover {
-  color: var(--theme-color, #42b983);
+  color: #e96900;
 }
 .search .search-keyword {
   color: var(--theme-color, #42b983);
@@ -61,6 +61,15 @@ body {
   letter-spacing: 0;
   margin: 0;
   overflow-x: hidden;
+}
+.logo {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  max-width: 35%;
+  transition: transform 0.3s ease;
+}
+.logo:hover {
+  transform: scale(1.02); /* Aumenta el tamaño ligeramente */
 }
 img {
   border-radius: 6px;
@@ -123,11 +132,11 @@ li input[type='checkbox'] {
   transition: color 0.3s;
 }
 .app-nav a:hover {
-  color: var(--theme-color, #42b983);
+  color: #e96900;
 }
 .app-nav a.active {
-  border-bottom: 2px solid var(--theme-color, #42b983);
-  color: var(--theme-color, #42b983);
+  border-bottom: 2px solid #e96900;
+  color: #e96900;
 }
 .app-nav li {
   display: inline-block;
@@ -652,7 +661,7 @@ body {
   font-weight: 600;
 }
 .markdown-section a {
-  color: #e67607;
+  color: #e96900;
   font-weight: 600;
 }
 .markdown-section h1 {
@@ -681,12 +690,12 @@ body {
 .markdown-section p {
   margin: 1.2em 0;
   font-size: 116%;
-  line-height: 1.45rem;
+  line-height: 1.1rem;
   word-spacing: 0.05rem;
 }
 .markdown-section ul,
 .markdown-section ol {
-  line-height: 2rem;
+  line-height: 1.3rem;
   word-spacing: 0.05rem;
 }
 .markdown-section ul,

@@ -23,13 +23,14 @@ Hemos recopilado una lista de [preguntas frecuentes](faq.md) para resolver las d
 
 Para cualquier consulta, contáctanos:
 
-- Email Soporte: [danny.lopez@logismart.com.co](mailto:danny.lopez@logismart.com.co)
+- **Email Soporte:** [danny.lopez@logismart.com.co](mailto:danny.lopez@logismart.com.co)
   
   
 
 
-<img class="logismart" src="https://josemaestreb.github.io/docs.bil_v2/_asset/logo_logismart.png" alt="Logo Logismart" />  
-  
+<img class="logismart" src="https://josemaestreb.github.io/docs.bil_v2/_asset/logo_logismart.png" alt="Logo Logismart" />
+
+--------------------------
 
 Desarrollado por LogiSmart  
 Derechos Reservados Pharex © 2024

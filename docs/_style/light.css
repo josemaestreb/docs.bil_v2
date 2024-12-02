@@ -62,7 +62,7 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
-img:not(.logo) {
+img:not(.logismart) {
   border-radius: 6px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -70,7 +70,7 @@ img:not(.logo) {
   box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-img:not(.logo):hover {
+img:not(.logismart):hover {
   transform: scale(1.02); /* Aumenta el tamaño ligeramente */
   box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.15); /* Más profundidad al pasar el cursor */
 }
@@ -849,9 +849,9 @@ pre::after {
   top: 0;
 }
 .markdown-section p {
-  line-height: 1.5 !important;
+  line-height: 1.6 !important;
 }
-.logo {
+.logismart {
   margin-top: 5px;
   margin-bottom: 5px;
   width: 35% !important;
@@ -860,6 +860,6 @@ pre::after {
   border-radius: 0 !important;
   transition: transform 0.3s ease;
 }
-.logo:hover {
+.logismart:hover {
   transform: scale(1.02); /* Aumenta el tamaño ligeramente */
 }

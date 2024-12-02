@@ -211,7 +211,7 @@ main.hidden {
   bottom: 0;
   left: 0;
   transition: transform 250ms ease-out;
-  width: 335px;
+  width: 305px;
   z-index: 20;
 }
 .sidebar > h1 {
@@ -284,8 +284,8 @@ main.hidden {
 }
 .sidebar-toggle-button {
   position: fixed;
-  top: 85px; /* Ubica el botón en la parte superior */
-  left: 31px; /* Puedes ajustar la ubicación horizontal si lo deseas */
+  top: 82px; /* Ubica el botón en la parte superior */
+  left: 29px; /* Puedes ajustar la ubicación horizontal si lo deseas */
   z-index: 1000; /* Asegura que el botón esté encima de otros elementos */
   opacity: 0.4;
 }

@@ -12,7 +12,7 @@ El siguiente paso es **familiarizarte con el Menú Principal**. Este es el punto
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/003-inicio.png" alt="Menú principal de BIL V2" />  
 
-**Nota Importante:** El botón del menú lateral será tu principal aliado, ¡no olvides usarlo con frecuencia!  
+<p class="tip"><strong>Nota Importante:</strong> El botón del menú lateral será tu principal aliado, ¡no olvides usarlo con frecuencia!</p>  
   
 
 ## Explorando las Secciones del Menú Principal

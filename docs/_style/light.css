@@ -681,9 +681,9 @@ body {
 .markdown-section p {
   margin: 1.2em 0;
   font-size: 116%;
-  line-height: 1.35rem;
+  line-height: 1.45rem;
+  word-spacing: 0.05rem;
 }
-.markdown-section p,
 .markdown-section ul,
 .markdown-section ol {
   line-height: 1.8rem;

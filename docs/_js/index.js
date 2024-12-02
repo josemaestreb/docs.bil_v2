@@ -18,12 +18,12 @@ window.$docsify = {
   search: {
     noData: {
       '/cn/': '没有结果',
-      '/': 'No results'
+      '/': 'Sin Resultados'
     },
     paths: 'auto',
     placeholder: {
       '/cn/': '搜索',
-      '/': 'Search'
+      '/': 'Buscar'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',

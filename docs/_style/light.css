@@ -663,11 +663,12 @@ body {
 .markdown-section figure,
 .markdown-section p {
   margin: 1.2em 0;
+  font-size: 120%;
 }
 .markdown-section p,
 .markdown-section ul,
 .markdown-section ol {
-  line-height: 1.6rem;
+  line-height: 1.8rem;
   word-spacing: 0.05rem;
 }
 .markdown-section ul,

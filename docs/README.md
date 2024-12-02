@@ -1,4 +1,4 @@
-# 📑 Documentación BIL V2
+# 📑 Manual de Usuario
 
 Esta documentación es el manual de usuario de la herramienta BIL V2, diseñada para PHAREX y sus clientes.
 

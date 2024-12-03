@@ -2,7 +2,7 @@
 
 ¡Enhorabuena! Si has iniciado sesión correctamente, deberías ver una pantalla similar a esta:  
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" />  
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" loading="lazy"/>  
   
 
 ## ¿Qué Sigue?
@@ -10,7 +10,7 @@
   
 El siguiente paso es **familiarizarte con el Menú Principal**. Este es el punto de partida para acceder a las diferentes secciones y funcionalidades de la plataforma. A continuación, te mostramos cómo interactuar con el menú:  
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/003-inicio.png" alt="Menú principal de BIL V2" />  
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/003-inicio.png" alt="Menú principal de BIL V2" loading="lazy"/>  
 
 <p class="tip"><strong>Nota Importante:</strong> El botón del menú lateral será tu principal aliado, ¡no olvides usarlo con frecuencia!</p>  
   
@@ -23,17 +23,17 @@ En esta página principal, además de interactuar con el menú de opciones, tend
 
 El Dashboard General te presenta una vista rápida de indicadores clave. Aquí un ejemplo:  
   
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/005-resumen_general.png" alt="Resumen general de operaciones" />  
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/005-resumen_general.png" alt="Resumen general de operaciones" loading="lazy"/>  
   
 
 <p class="tip">Cada tarjeta del Dashboard tiene un <strong>propósito</strong> específico. Descubre sus significados con las siguientes imágenes: </p>  
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/006-resumen_recepciones.png" alt="Significado de recepciones y PQRSF" />
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/006-resumen_recepciones.png" alt="Significado de recepciones y PQRSF" loading="lazy"/>
 
   
   
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/007-resumen_pedidos.png" alt="Significado de pedidos" />
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/007-resumen_pedidos.png" alt="Significado de pedidos" loading="lazy"/>
 
 
 ### 2. Pedidos por Estado y Ciudad
@@ -44,7 +44,7 @@ En el mapa, las burbujas representan el volumen de pedidos en cada destino:
   
 **Burbujas más grandes** = **mayor número de pedidos.**  
 
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" alt="Tabla de pedidos por estado" />
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" alt="Tabla de pedidos por estado" loading="lazy"/>
   
 
 ## 🎉 Módulo finalizado: Menú Principal

@@ -2,7 +2,7 @@
   
 
 ## 🔍 Vista General  
-<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/03-%20Reportes/024_reporte_inventarios_completo.png" alt="Reporte de Inventarios" />  
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/03-%20Reportes/024_reporte_inventarios_completo.png" alt="Reporte de Inventarios" loading="lazy"/>  
 
 ## 📚 Explicación del Contenido  
 

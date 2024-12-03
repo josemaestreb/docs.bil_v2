@@ -283,19 +283,15 @@ main.hidden {
   outline: none;
   padding: 10px;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  top: 5px;
+  left: 15px;
   text-align: center;
   transition: opacity 0.3s;
-  width: 284px;
+  width: 290px;
   z-index: 30;
   cursor: pointer;
 }
 .sidebar-toggle-button {
-  position: fixed;
-  top: 83px; /* Ubica el botón en la parte superior */
-  left: 25px; /* Puedes ajustar la ubicación horizontal si lo deseas */
-  z-index: 1000; /* Asegura que el botón esté encima de otros elementos */
   opacity: 0.6;
 }
 .sidebar-toggle:hover .sidebar-toggle-button {
@@ -310,7 +306,7 @@ main.hidden {
 }
 body.sticky .sidebar,
 body.sticky .sidebar-toggle {
-  position: fixed;
+  position: sticky;
 }
 .content {
   padding-top: 60px;

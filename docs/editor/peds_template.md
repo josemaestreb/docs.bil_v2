@@ -5,3 +5,6 @@ Desde el menú de opciones, accede a **Cargue de Plantilla de Pedidos** en la op
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/02-%20Estado%20pedido%20y%20solicitudes/018_cargue_plantilla_pedidos_inicio.png" alt="Cargue de Pedidos BIL" loading="lazy"/>
 
 Como se indica en la imagen, selecciona la bodega en la que se alistará el pedido y carga la plantilla con los datos requeridos para continuar con el proceso.
+
+<img src="https://josemaestreb.github.io/docs.bil_v2/_asset/02-%20Estado%20pedido%20y%20solicitudes/plantilla_01.gif" alt="Asignación Bloqueos Pedidos BIL" loading="lazy"/>
+

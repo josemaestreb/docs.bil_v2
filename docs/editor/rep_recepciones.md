@@ -1,9 +1,10 @@
 # 📑 Descarga el Reporte de Recepciones  
   
-
+---
 ## 🔍 Vista General
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/03-%20Reportes/022_recibo_mercancias_completo.png" alt="Menu Recibo de Mercancias" loading="lazy"/>  
 
+---
 ## 📚 Explicación del Contenido  
 
 A continuación, te explicamos brevemente el contenido de cada campo incluido en este reporte:  

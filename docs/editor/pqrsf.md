@@ -2,6 +2,8 @@
 
 Gestionar las PQRSF es fácil y rápido desde la plataforma. Sigue estos pasos para consultar o registrar solicitudes.  
 
+---
+
 ## 1. Acceso a PQRSF
 
 Dirígete al menú de opciones y selecciona **Ingresos de PQRSF** dentro de la sección **Solicitudes**. Aquí podrás:  
@@ -16,6 +18,8 @@ A continuación, se muestra un ejemplo de la interfaz:
 
 También tendrás la posibilidad de registrar nuevas solicitudes siguiendo las instrucciones detalladas más adelante.  
   
+---
+
 ## 2. Registro de PQRSF 
 
 Para registrar una nueva solicitud:
@@ -27,6 +31,8 @@ Para registrar una nueva solicitud:
 <p class="tip"><strong>Nota Importante:</strong> Es fundamental ingresar la información de manera correcta y precisa. De lo contrario, tu solicitud podría ser reclasificada, lo que podría retrasar su procesamiento.</p>  
   
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/02-%20Estado%20pedido%20y%20solicitudes/017_registrar_pqrsf.png" alt="Formulario de Registro PQRSF" loading="lazy"/>
+
+---
 
 ## 3. Seguimiento de tu solicitud
 

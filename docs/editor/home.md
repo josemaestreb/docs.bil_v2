@@ -1,9 +1,13 @@
 # 🧭 Navegando Por El Menú Principal
 
+---
+
 ¡Enhorabuena! Si has iniciado sesión correctamente, deberías ver una pantalla similar a esta:  
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/004-inicio_sin_blur.png" alt="Pantalla inicial de BIL V2" loading="lazy"/>  
   
+
+---
 
 ## ¿Qué Sigue?
 ¡Bienvenido a BIL V2! Ahora estás listo para explorar todas las funcionalidades que te ofrece esta poderosa herramienta.  
@@ -15,9 +19,13 @@ El siguiente paso es **familiarizarte con el Menú Principal**. Este es el punto
 <p class="tip"><strong>Nota Importante:</strong> El botón del menú lateral será tu principal aliado, ¡no olvides usarlo con frecuencia!</p>  
   
 
+---
+
 ## Explorando las Secciones del Menú Principal
 En esta página principal, además de interactuar con el menú de opciones, tendrás acceso al **Dashboard General**, que te proporciona un panorama completo de tu operación.  
   
+
+---
 
 ### 1. Resumen General: Inicio
 
@@ -35,6 +43,7 @@ El Dashboard General te presenta una vista rápida de indicadores clave. Aquí u
 
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/007-resumen_pedidos.png" alt="Significado de pedidos" loading="lazy"/>
 
+---
 
 ### 2. Pedidos por Estado y Ciudad
 
@@ -47,6 +56,8 @@ En el mapa, las burbujas representan el volumen de pedidos en cada destino:
 <img src="https://josemaestreb.github.io/docs.bil_v2/_asset/01-%20Inicio%2C%20login%20y%20editar%20perfil/014-tabla_estado_pedidos.png" alt="Tabla de pedidos por estado" loading="lazy"/>
   
 
+---
+
 ## 🎉 Módulo finalizado: Menú Principal
 ¡Excelente trabajo! Ahora conoces las funcionalidades esenciales del Menú Principal y cómo interactuar con la página principal de BIL V2.  
 
@@ -54,5 +65,8 @@ Si quieres profundizar más, te recomendamos explorar:
 • [Funcionalidades.](editor/command-palette.md)  
 • [Información del Usuario.](editor/command-palette.md)  
   
+
+---
+
 **¡Felicidades!**  
 Estás listo para continuar con el siguiente módulo: [Consultar Estado del Pedido.](editor/query_ped_status.md)  

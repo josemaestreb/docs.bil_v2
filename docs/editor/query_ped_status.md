@@ -1,5 +1,7 @@
 # Tutorial: Consulta el estado de tu pedido en BIL  
 
+---
+
 En este **tutorial** aprenderás a consultar el estado de tus pedidos. Solo necesitas ingresar el código de pedido y **seguir los pasos** que se detallan en el video:  
 
 <video width="100%" controls autoplay>
